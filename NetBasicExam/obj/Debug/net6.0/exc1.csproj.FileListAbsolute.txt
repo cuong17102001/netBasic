@@ -1,0 +1,14 @@
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\exc1.exe
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\exc1.deps.json
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\exc1.runtimeconfig.json
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\exc1.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\exc1.pdb
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.AssemblyInfoInputs.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.AssemblyInfo.cs
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.csproj.CoreCompileInputs.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\refint\exc1.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.pdb
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\exc1.genruntimeconfig.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\ref\exc1.dll

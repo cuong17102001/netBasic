@@ -1,0 +1,14 @@
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\NetBasicExam.exe
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\NetBasicExam.deps.json
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\NetBasicExam.runtimeconfig.json
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\NetBasicExam.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\bin\Debug\net6.0\NetBasicExam.pdb
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.AssemblyInfoInputs.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.AssemblyInfo.cs
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.csproj.CoreCompileInputs.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\refint\NetBasicExam.dll
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.pdb
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\NetBasicExam.genruntimeconfig.cache
+C:\Users\davis.nguyen\source\repos\NetBasicExam\NetBasicExam\obj\Debug\net6.0\ref\NetBasicExam.dll
